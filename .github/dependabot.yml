@@ -5,9 +5,7 @@ updates:
   schedule:
     interval: daily
     time: "10:00"
-  target-branch: "master"
+  target-branch: "main"
   open-pull-requests-limit: 10
-  reviewers:
-  - yushan87
   labels:
   - dependencies

@@ -1,0 +1,4 @@
+# This automatically assigns reviewers based on the file changed
+
+# For all reviews
+*       @yushan87
