@@ -6,9 +6,9 @@ name: RESOLVETutorial (Ruby + Jekyll)
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   test:
@@ -17,7 +17,7 @@ jobs:
     runs-on: [ ubuntu-latest ]
     strategy:
       matrix:
-        ruby-version: [ '3.2', '3.3', '3.4' ]
+        ruby-version: [ '3.3', '3.4' ]
 
     steps:
     - uses: actions/checkout@v4

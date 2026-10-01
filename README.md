@@ -1,7 +1,7 @@
 RESOLVE Tutorial
 ==============
 [![RESOLVETutorial (Ruby + Jekyll)](https://github.com/ClemsonRSRG/RESOLVETutorial/actions/workflows/jekyllrb.yml/badge.svg)](https://github.com/ClemsonRSRG/RESOLVETutorial/actions/workflows/jekyllrb.yml)
-[![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/ClemsonRSRG/RESOLVETutorial/master/LICENSE.txt)
+[![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/ClemsonRSRG/RESOLVETutorial/refs/heads/main/LICENSE)
 
 `Fill in description about this project!`
 
@@ -24,4 +24,4 @@ Developers of this particular test/working-iteration of the `RESOLVE Tutorial` i
 
 ## Copyright and license
 
-Copyright © 2023, [RESOLVE Software Research Group (RSRG)](https://www.cs.clemson.edu/resolve/). All rights reserved. The use and distribution terms for this software are covered by the BSD 3-clause license which can be found in the file `LICENSE.txt` at the root of this repository. By using this software in any fashion, you are agreeing to be bound by the terms of this license. You must not remove this notice, or any other, from this software.
+Copyright © 2026, [RESOLVE Software Research Group (RSRG)](https://www.cs.clemson.edu/resolve/). All rights reserved. The use and distribution terms for this software are covered by the BSD 3-clause license which can be found in the file `LICENSE` at the root of this repository. By using this software in any fashion, you are agreeing to be bound by the terms of this license. You must not remove this notice, or any other, from this software.
