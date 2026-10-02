@@ -36,3 +36,4 @@ jobs:
         check_favicon: false
         ignore_url: |
           https://begintoreason.cs.clemson.edu/
+          https://resolve.cs.clemson.edu/
