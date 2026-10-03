@@ -6,7 +6,7 @@
                 <button id="dropdownMenuButton" class="btn btn-outline-light dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Topics list
                 </button>
-                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <div class="dropdown-menu">
                 {% for collection in site.collections %}
                 {% if collection.label != "posts" %}
                     <h6 class="dropdown-header text-capitalize text-center">{{ collection.label }}</h6>
