@@ -2,7 +2,7 @@
 <ul>
     {% for collection in site.collections %}
     {% if collection.label != "posts" %}
-    <li><h4 class="text-capitalize">{{ collection.label }}</h4>
+    <li><h3 class="text-capitalize">{{ collection.label }}</h3>
         {% assign name = collection.label %}
         <ul>
             {% for item in site[name] %}
